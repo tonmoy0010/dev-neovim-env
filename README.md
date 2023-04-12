@@ -1,3 +1,3 @@
-# NeoVim as an IDE
+# How to install NeoVim
 
 Config file setup for nevim IDE
